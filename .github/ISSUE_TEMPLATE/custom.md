@@ -1,7 +1,7 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: "[ACCOUNT/CHAT/FEED/ETC] 이슈 제목"
+title: ''
 labels: ''
 assignees: ''
 
